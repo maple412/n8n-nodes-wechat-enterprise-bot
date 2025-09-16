@@ -11,14 +11,14 @@
     "notification"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/your-username/n8n-nodes-wechat-enterprise-bot#readme",
+  "homepage": "https://github.com/maple412/n8n-nodes-wechat-enterprise-bot#readme",
   "author": {
-    "name": "Your Name",
-    "email": "your.email@example.com"
+    "name": "Maple",
+    "email": "maple412@example.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/n8n-nodes-wechat-enterprise-bot.git"
+    "url": "https://github.com/maple412/n8n-nodes-wechat-enterprise-bot.git"
   },
   "main": "index.js",
   "scripts": {

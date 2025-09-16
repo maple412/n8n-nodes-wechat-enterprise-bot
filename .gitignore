@@ -1,0 +1,40 @@
+# 依赖和缓存
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn-integrity
+
+# 构建输出（开发时保留，发布时包含）
+# dist/
+
+# IDE和编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp
+
+# 环境变量文件
+.env
+.env.local
+.env.production
+
+# 覆盖率报告
+coverage/
+.nyc_output
+
+# 运行时文件
+.cache/

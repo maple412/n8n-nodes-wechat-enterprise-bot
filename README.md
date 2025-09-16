@@ -4,6 +4,8 @@
 
 企业微信群机器人节点for n8n，支持发送文本和Markdown消息到企业微信群。
 
+[View on GitHub](https://github.com/maple412/n8n-nodes-wechat-enterprise-bot) | [npm Package](https://www.npmjs.com/package/n8n-nodes-wechat-enterprise-bot)
+
 ## 安装
 
 ### 社区节点安装
